@@ -41,7 +41,7 @@ Welcome to **TrailBliss Travelers**, your gateway to exploring the world and mak
 
  **Screenshot:**
 
-![home-page](https://github.com/user-attachments/assets/b295658e-090d-4aac-a525-193e6e10e04f)
+![home-page](https://github.com/user-attachments/assets/0be43817-1b56-4beb-bde2-ac31b991eb45)
 
 ### About
 - **Purpose:** Share the mission, vision, and unique value of TrailBliss Travelers.
@@ -51,7 +51,7 @@ Welcome to **TrailBliss Travelers**, your gateway to exploring the world and mak
  
   **Screenshot:**
   
-![aboutpage](https://github.com/user-attachments/assets/33e59827-97b5-47b9-b130-8eeab9add37a)
+![aboutpage](https://github.com/user-attachments/assets/fb491102-f9b5-463a-a7c1-37b58f8671ac)
 
 
 ### Contact
@@ -63,7 +63,7 @@ Welcome to **TrailBliss Travelers**, your gateway to exploring the world and mak
  
   - **Screenshot:**
 
-![contact-page](https://github.com/user-attachments/assets/47e59741-d6f2-4af5-9a7d-694e45d02574)
+![contact-page](https://github.com/user-attachments/assets/b8e0d1fd-d77f-474e-83fe-6d5462f8d9e5)
 
 ### Destinations
 - **Purpose:** Highlight featured destinations with curated travel recommendations.
@@ -74,7 +74,7 @@ Welcome to **TrailBliss Travelers**, your gateway to exploring the world and mak
  
   - **Screenshot:**
 
-![destination-page](https://github.com/user-attachments/assets/71da3897-eb4b-419d-aecc-a4a49c35d67c)
+![destination-page](https://github.com/user-attachments/assets/77b7e9fb-296d-4f3d-b4ab-5eb866874d12)
 
 ### Signup
 - **Purpose:** Simulated signup for users to "create an account."
@@ -84,8 +84,7 @@ Welcome to **TrailBliss Travelers**, your gateway to exploring the world and mak
  
   - **Screenshot:**
 
-![signup-page](https://github.com/user-attachments/assets/7a441a6f-672e-40f3-8f15-d5b441e63d31)
-
+![signup-page](https://github.com/user-attachments/assets/71b1c270-f7eb-443b-92c3-4b7deefb5a1f)
 ### Login
 - **Purpose:** Simulated login for returning users.
 - **Highlights:**
@@ -94,7 +93,7 @@ Welcome to **TrailBliss Travelers**, your gateway to exploring the world and mak
  
   - **Screenshot:**
 
-![login-page](https://github.com/user-attachments/assets/7118444e-7249-4537-be88-8527cb24b1d5)
+![login-page](https://github.com/user-attachments/assets/9c0cb685-9f17-465b-86aa-77fa5b527191)
 
 ---
 
