@@ -111,7 +111,9 @@ TrailBliss/
 |   |   |-- contact.html
 |   |   |-- signup.html
 |   |   |-- login.html
+|-- README.md
 |-- app.py
+|-- requirements.txt
 ```
 
 ---
@@ -129,7 +131,7 @@ TrailBliss/
 
 1. Clone the repository:
    ```bash
-    git clone https://github.com/abdulkerimsheikh/trailblisstravelers_project.git
+    git clone https://github.com/abdulkerimsheikh/Trail_Bliss_Travelers.git
    ```
 
 2. Navigate to the project directory:
